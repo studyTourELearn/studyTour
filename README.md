@@ -1,2 +1,2 @@
 # studyTour
-E-Learning project related to computer science courses and others.
+E-Learning project related to computer science courses and other technologies.
