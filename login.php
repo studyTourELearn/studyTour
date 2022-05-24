@@ -152,7 +152,8 @@ session_start();
         </div>
     </section>
 
-
+    
+    
     <!---Slider Section ends------->
 
     <!---confirm password validation Start------->
