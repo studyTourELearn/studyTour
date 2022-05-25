@@ -437,10 +437,10 @@ CREATE TABLE `videos` (
 --
 
 INSERT INTO `videos` (`video_id`, `video_path`, `video_name`, `course_name`, `video_image`) VALUES
-(51, '<iframe width="853" height="480" src="https://www.youtube.com/embed/ntLJmHOJ0ME?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 'How to download jcalender in Netbeans | Hindi', 'java', '../../uploadimg/4.png'),
-(52, 'https://www.youtube.com/embed/zIdg7hkqNE0', 'How to download jcalender in Netbeans | Hindi', 'java', '../../uploadimg/v.png'),
-(54, 'https://www.youtube.com/embed/X0zdAG7gfgs', 'How to do this', 'java', '../../uploadimg/ANDROID.png'),
-(56, 'https://www.youtube.com/embed/b2VJmyarV3I', 'this is a java video', 'java', '../../uploadimg/2.png');
+(51, '<iframe width="853" height="480" src="https://www.youtube.com/embed/ntLJmHOJ0ME?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q" title="java" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', 'How to download install java | Hindi', 'java', '../../uploadimg/4.png'),
+(52, 'https://www.youtube.com/embed/zIdg7hkqNE0', 'java Basic | Hindi', 'java', '../../uploadimg/v.png'),
+(54, 'https://www.youtube.com/embed/X0zdAG7gfgs', 'java Variables', 'java', '../../uploadimg/ANDROID.png'),
+(56, 'https://www.youtube.com/embed/b2VJmyarV3I', 'this literals', 'java', '../../uploadimg/2.png');
 
 -- --------------------------------------------------------
 
