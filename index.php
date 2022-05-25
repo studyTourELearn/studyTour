@@ -425,7 +425,7 @@ if (!isset($_SESSION['username'])) {
 
     <!-- 	<br><br><br><br>
 
-		<section class="header7 cid-rjrjygOfd1" id="header7-3">
+		<section class="header7 cid-rjrjygOfd1" id="header7-3" >
 
     
 		    <div class="container">
